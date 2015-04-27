@@ -40,4 +40,4 @@ $merlin->attaque($harry);
 //utiliser la fonction get
 
 echo $merlin-> getnom();
-echo '</br> modif';
+echo '</br> modifoo';
