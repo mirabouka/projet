@@ -25,7 +25,7 @@ public function crier(){
  public function regenerer($vie=null)
 {
 	if(is_null($vie)){
-		$this->vie=100;
+		$this->vie=120;
 	}else{
 		$this->vie += $vie;
 	}
